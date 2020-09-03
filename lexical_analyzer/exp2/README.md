@@ -2,9 +2,9 @@
 sudo apt-get install bison flex
 
 #### To run the above code
-lex file.l
-cc lex.yy.c
-./a.out
+lex file.l <br />
+cc lex.yy.c <br />
+./a.out <br />
 
 #### To view the output
 Either open the file Output.txt or
