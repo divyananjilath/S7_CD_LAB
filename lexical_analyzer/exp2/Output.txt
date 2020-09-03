@@ -1,0 +1,109 @@
+this is single line Commments: //to implement lexical analyzer using lex tools
+
+this is multi line Comments: /*Hello, Arihant here*/
+
+This is Keyword: int
+
+This is Function: main
+
+This is Delimiter: (
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: int
+
+This is Identifier: a
+
+This is Assignment Operator: =
+
+This is Integer: 0
+
+This is Delimiter: ,
+
+This is Identifier: b
+
+This is Assignment Operator: =
+
+This is Integer: 2
+
+This is Delimiter: ;
+
+This is Keyword:char
+This is Identifier: c
+
+This is Assignment Operator: =
+
+this is String:"helloworld"
+
+This is Delimiter: ;
+
+This is Keyword: if
+
+This is Delimiter: (
+
+This is Identifier: a
+
+This is Arithmatic Operator: +
+
+This is Identifier: b
+
+This is Relational Operator: >
+
+This is Integer: 21
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Function: printf
+
+This is Delimiter: (
+
+this is String:"abxd"
+
+This is Delimiter: )
+
+This is Delimiter: ;
+
+This is Identifier: c
+
+This is Assignment Operator: =
+
+This is Identifier: a
+
+This is Arithmatic Operator: *
+
+This is Identifier: b
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+This is Identifier: a
+
+This is Assignment Operator: =
+
+This is Identifier: a
+
+This is Arithmatic Operator: +
+
+This is Integer: 1
+
+This is Delimiter: ;
+
+This is Keyword: return
+
+This is Integer: 0
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+
+
+
+ Total Tokens = 52
