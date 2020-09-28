@@ -1,2 +1,2 @@
-# S7_CD_LAB
+CD_LAB
 Compiler design lab programs
